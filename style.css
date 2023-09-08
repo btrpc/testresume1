@@ -1,0 +1,79 @@
+body{
+    background-color: pink;
+    }
+
+.container{
+    background-color: #00ffff;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.712);
+}    
+
+.header{
+    text-align: center;
+
+}
+
+.img{
+   width: 200px;
+   height:  200px;
+   border-radius: 50%;
+}
+
+.header h3{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.info{
+    padding: 30px;
+
+}
+
+h2{
+    background-color: blue;
+    color: beige;
+    padding: 10px;
+    margin: 30px 0;
+    font-size: 25px;
+    border-radius: 50px;
+}
+
+.containerSkills{
+    width: 100%;
+    background-color: blueviolet;
+    margin-left: 25;
+}
+.skills{
+    text-align: right;
+}
+
+.html{
+    width: 90%;
+    background-color: black;
+}
+
+.css{
+    width: 80%;
+    background-color: black;
+}
+
+.js{
+    width: 90%;
+    background-color: black;
+}
+
+
+.workExp h3{
+    padding-left: 25px;
+
+}
+.workExp p{
+    padding-left: 35px;
+    }
+.workExp ul{
+    padding-left: 30px;
+    
+}    
